@@ -1,0 +1,1 @@
+D:\dev\Cpp\DS_Stack_SingleList\x64\Debug\DS_Stack_SingleList.exe
